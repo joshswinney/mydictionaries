@@ -13,7 +13,7 @@ sampleDict = {
    }
 }
 
-
+print(sampleDict(type))
 
 
 # 2) Add 2 inches to the son's height.
