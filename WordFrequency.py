@@ -27,6 +27,9 @@ for line in infile:
         else:
             frequency_dict[word] = 1
 
+#close file
+infile.close()
+
 #print dictionary
 print(frequency_dict)
 
